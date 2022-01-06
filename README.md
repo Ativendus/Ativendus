@@ -14,6 +14,5 @@ I'm Mats, I'm currently at school and learning by myself
 
 ## Favourite Languages
 - C#
-- JavaScript (TypeScript)
+- Python
 - Java
-- C/C++
