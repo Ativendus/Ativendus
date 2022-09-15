@@ -1,7 +1,7 @@
 ## Hello There 👋
 <sup>General Kenobi!</sup>
 
-I'm Mats, I'm currently at school and learning by myself
+I'm Mats, I'm currently doing my apprenticeship as a systemintegrator
 
 [![Ativendus's github stats](https://github-readme-stats.vercel.app/api?username=Ativendus&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,3 +16,5 @@ I'm Mats, I'm currently at school and learning by myself
 - C#
 - Python
 - Java
+
+Kotlin=Love
